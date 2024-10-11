@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 body{
-    background: #ededed;
+    background: #2d2b2b;
 }
 p{
     font-size: 1em;
@@ -22,7 +22,7 @@ a{
 header, footer{
     width: 100%;
     padding: 20px 0px;
-    background: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/cv-cover.jpg") #4f4f4f;
+    background: url("images/banniere_site.png") #4f4f4f;
     box-shadow: 0px 0px 15px #333;
 }
 header{
@@ -57,8 +57,8 @@ section{
     width: 100%;
     padding-bottom: 20px;
     margin: 20px auto;
-    box-shadow: 0px 0px 10px #bbb;
-    background-color: #fff;
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+    background-color: rgb(155, 139, 139);
 }
 
 section h2{
@@ -89,9 +89,9 @@ section > div{
     text-align: center;
     padding: 10px;
     margin: 10px auto 30px auto;
-    color: #fff;
-    background-color: #EA0;
-    box-shadow: 0px 0px 10px #ccc;
+    color: rgb(223, 222, 223);
+    background-color: rgb(158, 40, 182);
+    box-shadow: 0px 0px 10px rgb(206, 204, 204);
     border-radius: 5px;
 }
 .contact-flex{
